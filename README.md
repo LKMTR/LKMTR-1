@@ -1,1 +1,1 @@
-# LKMTR-1
+LKMTR Server Resource Pack
